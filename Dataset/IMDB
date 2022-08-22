@@ -1,0 +1,2 @@
+Download dataset: https://www.kaggle.com/rounakbanik/the-movies-dataset, 
+and place the files in IMDB folder
